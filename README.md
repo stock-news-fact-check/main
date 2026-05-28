@@ -1,4 +1,5 @@
 주식 뉴스 팩트체크 시스템
 
 프로젝트 구조
-main/fact_check.py
+fact_check.py    # 메인 소스 로직
+streamlit_app.py # 스트림릿 UI
